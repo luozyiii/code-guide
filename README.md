@@ -1,6 +1,6 @@
 # code-guide
 
-优秀规范是保证代码质量的最有效途径
+优秀规范是保证代码质量的最有效途径，增强可读性。
 
 ## 准备工作
 
@@ -37,6 +37,8 @@ npm run dev
 ```
 
 ## [可组装的 JavaScript 和 JSX 检查工具 ESLint](http://eslint.cn/docs/user-guide/getting-started)
+
+用于代码校验，能够在开发阶段发现很多潜在的问题
 
 ### 入门
 
@@ -160,7 +162,9 @@ npm install eslint-plugin-unused-imports --save-dev
 
 ## [一个“有态度”的代码格式化工具 Prettier](https://www.prettier.cn/)
 
-分享一个我的常用配置
+用于代码格式化，可以让大家的风格趋于统一，方便后续维护迭代。
+
+### 分享一个我的常用配置
 
 ```ts
 // .prettierrc.cjs
