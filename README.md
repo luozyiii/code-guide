@@ -17,7 +17,7 @@ npm install
 npm run dev
 ```
 
-### 安装 vscode 插件 ESLint 和 ESLint，并配置项目工作区
+### 安装 vscode 插件 ESLint 和 Prettier，并配置项目工作区
 
 ```ts
 // .vscode/settings.json
