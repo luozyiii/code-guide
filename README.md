@@ -164,6 +164,11 @@ npm install eslint-plugin-unused-imports --save-dev
 
 用于代码格式化，可以让大家的风格趋于统一，方便后续维护迭代。
 
+```bash
+# 安装
+npm install prettier --save-dev
+```
+
 ### 分享一个我的常用配置
 
 ```ts
